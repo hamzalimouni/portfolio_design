@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hamzalimouni/portfolio_design.git/static/css/main.05353153.css",
+    "main.js": "/hamzalimouni/portfolio_design.git/static/js/main.664c05cd.js",
+    "static/media/project1.png": "/hamzalimouni/portfolio_design.git/static/media/project1.a7c4a4dec16ddc703430.png",
+    "static/media/profile.png": "/hamzalimouni/portfolio_design.git/static/media/profile.12a61719ed973f72761e.png",
+    "static/media/award.png": "/hamzalimouni/portfolio_design.git/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/hamzalimouni/portfolio_design.git/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/hamzalimouni/portfolio_design.git/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/hamzalimouni/portfolio_design.git/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/hamzalimouni/portfolio_design.git/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/hamzalimouni/portfolio_design.git/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/hamzalimouni/portfolio_design.git/index.html",
+    "main.05353153.css.map": "/hamzalimouni/portfolio_design.git/static/css/main.05353153.css.map",
+    "main.664c05cd.js.map": "/hamzalimouni/portfolio_design.git/static/js/main.664c05cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05353153.css",
+    "static/js/main.664c05cd.js"
+  ]
+}
